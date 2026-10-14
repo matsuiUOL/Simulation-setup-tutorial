@@ -1,0 +1,6 @@
+# 01_virtual_city, 03_QGIS(外部実行分), 06_sewer, 07_river 用
+numpy
+pandas
+geopandas
+shapely
+rasterio

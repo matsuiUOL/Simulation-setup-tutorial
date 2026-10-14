@@ -1,0 +1,29 @@
+# --- コンパイル生成物 ---
+*.out
+*.exe
+*.obj
+*.o
+*.mod
+a.out
+
+# --- GiD / QGIS の一時ファイル ---
+*.lck
+*.gid/*.lck
+*.qgs~
+*.qgz~
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- 研究室内部資料（公開リポジトリにしない場合はこの行を消してよい） ---
+docs/reference/
+
+# --- Fortran 実行時のチェック用出力 ---
+check*.dat

@@ -1,0 +1,15 @@
+tmax  =   2.0   0.0   0.0   0.0
+dt    =       0.01
+dkout =     300.00
+dpout =      50.00
+dqout =      60.00
+--------------------------------
+river2/shoki_true.dat
+river2/kasho.dat
+river2/node_riv.dat
+river2/hahosei.dat
+river2/hrhosei.dat
+river2/hydr_true.dat
+--------------------------------
+out/suii.dat
+out/qh.dat

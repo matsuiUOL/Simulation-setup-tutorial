@@ -1,0 +1,36 @@
+Q data for virtual river
+mode something
+    1   13
+Virtual river discharge
+Upstream point 1
+                     2.000000
+                    21.500000
+                    41.000000
+                    60.500000
+                    80.000000
+                    70.250000
+                    60.500000
+                    50.750000
+                    41.000000
+                    31.250000
+                    21.500000
+                    11.750000
+                     2.000000
+H data for downstream
+mode something
+    1   13
+Water level at downstream
+Downstream point 1
+                     5.00
+                     5.19
+                     5.38
+                     5.56
+                     5.75
+                     5.94
+                     6.12
+                     6.31
+                     6.50
+                     6.12
+                     5.75
+                     5.38
+                     5.00

@@ -1,0 +1,71 @@
+time  =   0.0  48.0   0.0   0.0
+dt    =       0.01
+dkout =     300.00
+dpout =      10.00
+dtout =     600.00
+dbgout=     300.00
+dtrain=      60.00
+dtq   =      60.00
+invs  =       0.01
+inl   =      59655
+inll  =      34015
+--------inputdata
+input/manhole-true.dat
+input/conduit-true.dat
+input/node.dat
+input/h-ar.dat
+input/bs_mikatsuki.dat
+input/mesh.dat
+input/link.dat
+data/rain_gattai.dat
+input/tec/tec_sokkou.dat
+input/tec/tec_gaikyomasu.dat
+data/qin_gattai.dat
+data/qini_gattai.dat
+input/new_all.dat
+input/ryunyukyo_inf.dat
+data/q_drain_gattai.dat
+input/tracemesh.dat
+--------riverdata
+input/river/kasho_true.dat
+input/river/hahosei.dat
+input/river/hrhosei.dat
+input/river/node_riv.dat
+input/river/hydr_true.dat
+input/river/shoki_true.dat
+input/river/riv_to_2d.dat
+input/river/flap_modify.dat
+--------output
+tecplot/h.dat
+tecplot/manhole_grid.dat
+tecplot/allpipes_grid.dat
+tecplot/hmax.dat
+suisin/allpipes(depth).dat
+graph/inun_area.dat
+graph/inun_volume.dat
+graph/inun_area_max.dat
+graph/inun_volume_max.dat
+graph/exchange_grtodi.dat
+graph/exchange_ditogai.dat
+graph/exchange_gaitosw.dat
+suisin/mikatsuki_h.dat
+suisin/hmax_trace.dat
+graph/exchange_drtoin1.dat
+graph/exchange_drtoin2.dat
+graph/exchange_drtoin3.dat
+graph/exchange_drtoin4.dat
+graph/exchange_intosw1.dat
+graph/exchange_intosw2.dat
+graph/exchange_intosw3.dat
+graph/exchange_intosw4.dat
+graph/ac_inun_volume.dat
+suisin/sokkou.dat
+suisin/gaikyomasu.dat
+graph/pump.dat
+graph/q_flp.dat
+graph/ac_flp.dat
+--------river output
+suisin/h_river_test.dat
+graph/overtop_hantei.dat
+graph/overtop_q_ac.dat
+graph/overtop_q.dat

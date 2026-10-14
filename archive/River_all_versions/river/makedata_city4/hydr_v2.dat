@@ -1,0 +1,50 @@
+Q data for confluence river
+mode something
+    2   13
+Confluence river discharge
+Main upstream point
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+                     2.000000
+Tributary upstream point
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+                     1.000000
+H data for downstream
+mode something
+    1   13
+Water level at downstream end
+Downstream point 1
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
+                    -3.00
